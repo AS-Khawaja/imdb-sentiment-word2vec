@@ -15,6 +15,10 @@ The goal of this project is to:
 
 ---
 
+## Project Pipeline
+
+<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/055f524f-fa48-4e9e-92cf-6e89c7f34ddb" />
+
 ## 🛠️ Technologies & Libraries Used
 
 - **Python 3**
