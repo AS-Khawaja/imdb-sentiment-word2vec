@@ -16,8 +16,8 @@ The goal of this project is to:
 ---
 
 ## Project Pipeline
-<p align="centre">
-  <img width="243" height="552" alt="Image" src="https://github.com/user-attachments/assets/315c9d2d-7fde-46dd-9830-03b6c51570a2" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/315c9d2d-7fde-46dd-9830-03b6c51570a2" width="250" />
 </p>
 
 
